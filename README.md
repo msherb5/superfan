@@ -1,6 +1,3 @@
-# superfan
-The one stop shop for all the information you could ever want about your favorite team.
-
 # SuperFan
 
 A one-stop sports hub for fans who are tired of switching between Twitter, Reddit, ESPN, YouTube, and their team's local beat reporter. SuperFan aggregates social content, live game data, player statistics, fantasy information, and community discussion into a single personalized feed — organized by the teams you follow.
